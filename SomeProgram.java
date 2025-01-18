@@ -4,6 +4,7 @@ public class SomeProgram {
       System.out.println("We will be Git experts, soon.");
     }
 
+
     public void startRocket(){
       Rocket.start(13);
     }
@@ -12,6 +13,5 @@ public class SomeProgram {
     public void manageTheSatellite() {
     // TODO implement AL
 }
-
 
 }
