@@ -4,12 +4,14 @@ public class SomeProgram {
       System.out.println("We will be Git experts, soon.");
     }
 
-    public void  startRocket(){
+    public void startRocket(){
+      Rocket.start(13);
     }
-
+    
     
     public void manageTheSatellite() {
     // TODO implement AL
 }
+
 
 }
